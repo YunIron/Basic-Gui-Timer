@@ -1,4 +1,3 @@
-from os import startfile, times
 from tkinter import *
 from tkinter import messagebox
 import pygame
